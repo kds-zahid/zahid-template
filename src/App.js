@@ -1,4 +1,3 @@
-// import logo from './logo.svg';
 import Zahid from './zahid.png';
 import './App.css';
 
