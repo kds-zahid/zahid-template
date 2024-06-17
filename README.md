@@ -1,3 +1,3 @@
 # Zahid Template v.1
 
-[![ZAHID](https://readme-typing-svg.demolab.com/?lines=create-zahid-app;zahid@hasan;)](https://git.io/typing-svg)
+[![ZAHID](https://readme-typing-svg.demolab.com/?lines=create-zahid-app;create-zahid-app@latest;)](https://git.io/typing-svg)
