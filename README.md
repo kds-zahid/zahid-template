@@ -2,4 +2,4 @@
 
 # SEO GET
 
-[![SEO GET](https://readme-typing-svg.demolab.com/?lines=create-zahid-app;zahid;hasan;)](https://git.io/typing-svg)
+[![SEO GET](https://readme-typing-svg.demolab.com/?lines=create-zahid-app;zahid@hasan;)](https://git.io/typing-svg)
